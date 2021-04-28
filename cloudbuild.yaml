@@ -1,0 +1,10 @@
+# TEST
+
+steps:
+# TEST
+  - name: ubuntu
+    args:
+      - echo
+      - hello world
+
+# TEST
